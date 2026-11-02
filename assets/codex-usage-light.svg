@@ -411,6 +411,7 @@
 <rect x="898" y="275" width="13" height="13" rx="3" fill="#c5e5ff"><title>2026-10-30: 48,476,702 recorded tokens</title></rect>
 <rect x="898" y="291" width="13" height="13" rx="3" fill="#c5e5ff"><title>2026-10-31: 2,587,965 recorded tokens</title></rect>
 <rect x="914" y="195" width="13" height="13" rx="3" fill="#ebedf0"><title>2026-11-01: 0 recorded tokens</title></rect>
+<rect x="914" y="211" width="13" height="13" rx="3" fill="#ebedf0"><title>2026-11-02: 0 recorded tokens</title></rect>
 <text x="28" y="323" text-anchor="start" class="muted">Latest returned activity: Oct 31, 2026</text>
 <text x="809" y="323" text-anchor="end" class="muted">Less</text>
 <rect x="817" y="312" width="12" height="12" rx="3" fill="#ebedf0"/>
