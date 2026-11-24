@@ -413,6 +413,7 @@
 <rect x="898" y="291" width="13" height="13" rx="3" fill="#087dcc"><title>2026-11-21: 211,651,820 recorded tokens</title></rect>
 <rect x="914" y="195" width="13" height="13" rx="3" fill="#0b4f87"><title>2026-11-22: 65,239,588 recorded tokens</title></rect>
 <rect x="914" y="211" width="13" height="13" rx="3" fill="#21262d"><title>2026-11-23: 0 recorded tokens</title></rect>
+<rect x="914" y="227" width="13" height="13" rx="3" fill="#21262d"><title>2026-11-24: 0 recorded tokens</title></rect>
 <text x="28" y="323" text-anchor="start" class="muted">Latest returned activity: Nov 22, 2026</text>
 <text x="809" y="323" text-anchor="end" class="muted">Less</text>
 <rect x="817" y="312" width="12" height="12" rx="3" fill="#21262d"/>
